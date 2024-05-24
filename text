@@ -1,0 +1,7 @@
+Files
+_id: int
+folder_id: int
+name: varchar (100)
+path: varchar (200)
+created_by: int
+created_date : timestamp
